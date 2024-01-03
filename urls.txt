@@ -287,6 +287,7 @@
 福利测试 297,https://ty.163cdns.com/contents/videos/0/297/297_1080p.mp4
 福利测试 298,https://ty.163cdns.com/contents/videos/0/298/298_1080p.mp4
 福利测试 299,https://ty.163cdns.com/contents/videos/0/299/299_1080p.mp4
+体育300-400新闻,#genre#
 福利测试 300,https://ty.163cdns.com/contents/videos/0/300/300_1080p.mp4
 福利测试 301,https://ty.163cdns.com/contents/videos/0/301/301_1080p.mp4
 福利测试 302,https://ty.163cdns.com/contents/videos/0/302/302_1080p.mp4
@@ -387,6 +388,7 @@
 福利测试 397,https://ty.163cdns.com/contents/videos/0/397/397_1080p.mp4
 福利测试 398,https://ty.163cdns.com/contents/videos/0/398/398_1080p.mp4
 福利测试 399,https://ty.163cdns.com/contents/videos/0/399/399_1080p.mp4
+体育400-500新闻,#genre#
 福利测试 400,https://ty.163cdns.com/contents/videos/0/400/400_1080p.mp4
 福利测试 401,https://ty.163cdns.com/contents/videos/0/401/401_1080p.mp4
 福利测试 402,https://ty.163cdns.com/contents/videos/0/402/402_1080p.mp4
@@ -487,6 +489,7 @@
 福利测试 497,https://ty.163cdns.com/contents/videos/0/497/497_1080p.mp4
 福利测试 498,https://ty.163cdns.com/contents/videos/0/498/498_1080p.mp4
 福利测试 499,https://ty.163cdns.com/contents/videos/0/499/499_1080p.mp4
+体育500-600新闻,#genre#
 福利测试 500,https://ty.163cdns.com/contents/videos/0/500/500_1080p.mp4
 福利测试 501,https://ty.163cdns.com/contents/videos/0/501/501_1080p.mp4
 福利测试 502,https://ty.163cdns.com/contents/videos/0/502/502_1080p.mp4
@@ -587,6 +590,7 @@
 福利测试 597,https://ty.163cdns.com/contents/videos/0/597/597_1080p.mp4
 福利测试 598,https://ty.163cdns.com/contents/videos/0/598/598_1080p.mp4
 福利测试 599,https://ty.163cdns.com/contents/videos/0/599/599_1080p.mp4
+体育600-700新闻,#genre#
 福利测试 600,https://ty.163cdns.com/contents/videos/0/600/600_1080p.mp4
 福利测试 601,https://ty.163cdns.com/contents/videos/0/601/601_1080p.mp4
 福利测试 602,https://ty.163cdns.com/contents/videos/0/602/602_1080p.mp4
@@ -687,6 +691,7 @@
 福利测试 697,https://ty.163cdns.com/contents/videos/0/697/697_1080p.mp4
 福利测试 698,https://ty.163cdns.com/contents/videos/0/698/698_1080p.mp4
 福利测试 699,https://ty.163cdns.com/contents/videos/0/699/699_1080p.mp4
+体育700-800新闻,#genre#
 福利测试 700,https://ty.163cdns.com/contents/videos/0/700/700_1080p.mp4
 福利测试 701,https://ty.163cdns.com/contents/videos/0/701/701_1080p.mp4
 福利测试 702,https://ty.163cdns.com/contents/videos/0/702/702_1080p.mp4
@@ -787,6 +792,7 @@
 福利测试 797,https://ty.163cdns.com/contents/videos/0/797/797_1080p.mp4
 福利测试 798,https://ty.163cdns.com/contents/videos/0/798/798_1080p.mp4
 福利测试 799,https://ty.163cdns.com/contents/videos/0/799/799_1080p.mp4
+体育800-900新闻,#genre#
 福利测试 800,https://ty.163cdns.com/contents/videos/0/800/800_1080p.mp4
 福利测试 801,https://ty.163cdns.com/contents/videos/0/801/801_1080p.mp4
 福利测试 802,https://ty.163cdns.com/contents/videos/0/802/802_1080p.mp4
@@ -887,6 +893,7 @@
 福利测试 897,https://ty.163cdns.com/contents/videos/0/897/897_1080p.mp4
 福利测试 898,https://ty.163cdns.com/contents/videos/0/898/898_1080p.mp4
 福利测试 899,https://ty.163cdns.com/contents/videos/0/899/899_1080p.mp4
+体育900-999新闻,#genre#
 福利测试 900,https://ty.163cdns.com/contents/videos/0/900/900_1080p.mp4
 福利测试 901,https://ty.163cdns.com/contents/videos/0/901/901_1080p.mp4
 福利测试 902,https://ty.163cdns.com/contents/videos/0/902/902_1080p.mp4
