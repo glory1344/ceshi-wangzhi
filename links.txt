@@ -65,7 +65,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/1/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/1/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/1/index.m3u8
-电影新闻1,#genre#
+电影新闻2,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/2/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/2/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/2/index.m3u8
@@ -132,7 +132,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/2/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/2/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/2/index.m3u8
-电影新闻1,#genre#
+电影新闻3,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/3/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/3/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/3/index.m3u8
@@ -199,7 +199,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/3/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/3/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/3/index.m3u8
-电影新闻1,#genre#
+电影新闻4,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/4/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/4/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/4/index.m3u8
@@ -266,7 +266,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/4/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/4/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/4/index.m3u8
-电影新闻1,#genre#
+电影新闻5,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/5/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/5/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/5/index.m3u8
@@ -333,7 +333,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/5/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/5/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/5/index.m3u8
-电影新闻1,#genre#
+电影新闻6,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/6/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/6/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/6/index.m3u8
@@ -400,7 +400,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/6/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/6/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/6/index.m3u8
-电影新闻1,#genre#
+电影新闻7,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/7/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/7/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/7/index.m3u8
@@ -467,7 +467,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/7/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/7/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/7/index.m3u8
-电影新闻1,#genre#
+电影新闻8,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/8/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/8/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/8/index.m3u8
@@ -534,7 +534,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/8/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/8/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/8/index.m3u8
-电影新闻1,#genre#
+电影新闻9,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/9/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/9/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/9/index.m3u8
@@ -601,7 +601,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/9/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/9/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/9/index.m3u8
-电影新闻1,#genre#
+电影新闻10,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/10/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/10/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/10/index.m3u8
@@ -668,7 +668,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/10/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/10/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/10/index.m3u8
-电影新闻1,#genre#
+电影新闻11,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/11/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/11/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/11/index.m3u8
@@ -735,6 +735,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/11/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/11/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/11/index.m3u8
+电影新闻12,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/12/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/12/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/12/index.m3u8
@@ -801,6 +802,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/12/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/12/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/12/index.m3u8
+电影新闻13,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/13/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/13/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/13/index.m3u8
@@ -867,6 +869,7 @@
 小电影独看, https://clsp.clsp-004.com/20240103/13/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240104/13/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20240105/13/index.m3u8
+电影新闻14,#genre#
 小电影独看, https://clsp.clsp-004.com/20231101/14/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231102/14/index.m3u8
 小电影独看, https://clsp.clsp-004.com/20231103/14/index.m3u8
