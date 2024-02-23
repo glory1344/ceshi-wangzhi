@@ -1,7 +1,5 @@
-
-2024,#genre#
+202401-05,#genre#
 电影新闻, https://clsp.clsp-005.com/20240101/1/index.m3u8
-2024,#genre#
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240101/2/index.m3u8
 2024,#genre#
@@ -1590,7 +1588,7 @@
 电影新闻, https://clsp.clsp-005.com/20240105/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240105/159/index.m3u8
-2024,#genre#
+2024-10,#genre#
 电影新闻, https://clsp.clsp-005.com/20240106/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240106/2/index.m3u8
@@ -2862,7 +2860,7 @@
 电影新闻, https://clsp.clsp-005.com/20240109/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240109/159/index.m3u8
-2024,#genre#
+20240110-0115,#genre#
 电影新闻, https://clsp.clsp-005.com/20240110/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240110/2/index.m3u8
@@ -4452,7 +4450,7 @@
 电影新闻, https://clsp.clsp-005.com/20240114/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240114/159/index.m3u8
-2024,#genre#
+20240115,#genre#
 电影新闻, https://clsp.clsp-005.com/20240115/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240115/2/index.m3u8
@@ -4770,7 +4768,7 @@
 电影新闻, https://clsp.clsp-005.com/20240115/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240115/159/index.m3u8
-2024,#genre#
+20240116,#genre#
 电影新闻, https://clsp.clsp-005.com/20240116/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240116/2/index.m3u8
@@ -5088,7 +5086,7 @@
 电影新闻, https://clsp.clsp-005.com/20240116/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240116/159/index.m3u8
-2024,#genre#
+2024-17,#genre#
 电影新闻, https://clsp.clsp-005.com/20240117/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240117/2/index.m3u8
@@ -5406,7 +5404,7 @@
 电影新闻, https://clsp.clsp-005.com/20240117/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240117/159/index.m3u8
-2024,#genre#
+2024-18,#genre#
 电影新闻, https://clsp.clsp-005.com/20240118/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240118/2/index.m3u8
@@ -6042,7 +6040,7 @@
 电影新闻, https://clsp.clsp-005.com/20240119/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240119/159/index.m3u8
-2024,#genre#
+2024-20,#genre#
 电影新闻, https://clsp.clsp-005.com/20240120/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240120/2/index.m3u8
@@ -6678,7 +6676,7 @@
 电影新闻, https://clsp.clsp-005.com/20240121/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240121/159/index.m3u8
-2024,#genre#
+2024_22,#genre#
 电影新闻, https://clsp.clsp-005.com/20240122/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240122/2/index.m3u8
@@ -7314,7 +7312,7 @@
 电影新闻, https://clsp.clsp-005.com/20240123/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240123/159/index.m3u8
-2024,#genre#
+2024_24,#genre#
 电影新闻, https://clsp.clsp-005.com/20240124/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240124/2/index.m3u8
@@ -7950,7 +7948,7 @@
 电影新闻, https://clsp.clsp-005.com/20240125/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240125/159/index.m3u8
-2024,#genre#
+2024-26,#genre#
 电影新闻, https://clsp.clsp-005.com/20240126/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240126/2/index.m3u8
@@ -8586,7 +8584,7 @@
 电影新闻, https://clsp.clsp-005.com/20240127/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240127/159/index.m3u8
-2024,#genre#
+2024_28,#genre#
 电影新闻, https://clsp.clsp-005.com/20240128/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240128/2/index.m3u8
@@ -9222,7 +9220,7 @@
 电影新闻, https://clsp.clsp-005.com/20240129/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240129/159/index.m3u8
-2024,#genre#
+2024_30,#genre#
 电影新闻, https://clsp.clsp-005.com/20240130/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240130/2/index.m3u8
@@ -9540,7 +9538,7 @@
 电影新闻, https://clsp.clsp-005.com/20240130/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240130/159/index.m3u8
-2024,#genre#
+2024_31,#genre#
 电影新闻, https://clsp.clsp-005.com/20240131/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240131/2/index.m3u8
@@ -9858,7 +9856,7 @@
 电影新闻, https://clsp.clsp-005.com/20240131/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240131/159/index.m3u8
-2024,#genre#
+2024_0201,#genre#
 电影新闻, https://clsp.clsp-005.com/20240201/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240201/2/index.m3u8
@@ -11130,7 +11128,7 @@
 电影新闻, https://clsp.clsp-005.com/20240204/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240204/159/index.m3u8
-2024,#genre#
+2024_0205,#genre#
 电影新闻, https://clsp.clsp-005.com/20240205/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240205/2/index.m3u8
@@ -12720,7 +12718,7 @@
 电影新闻, https://clsp.clsp-005.com/20240209/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240209/159/index.m3u8
-2024,#genre#
+2024_0210,#genre#
 电影新闻, https://clsp.clsp-005.com/20240210/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240210/2/index.m3u8
@@ -13356,7 +13354,7 @@
 电影新闻, https://clsp.clsp-005.com/20240211/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240211/159/index.m3u8
-2024,#genre#
+2024_12,#genre#
 电影新闻, https://clsp.clsp-005.com/20240212/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240212/2/index.m3u8
@@ -13992,7 +13990,7 @@
 电影新闻, https://clsp.clsp-005.com/20240213/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240213/159/index.m3u8
-2024,#genre#
+2024_14,#genre#
 电影新闻, https://clsp.clsp-005.com/20240214/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240214/2/index.m3u8
@@ -14946,7 +14944,7 @@
 电影新闻, https://clsp.clsp-005.com/20240216/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240216/159/index.m3u8
-2024,#genre#
+2024_17,#genre#
 电影新闻, https://clsp.clsp-005.com/20240217/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240217/2/index.m3u8
@@ -15900,7 +15898,7 @@
 电影新闻, https://clsp.clsp-005.com/20240219/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240219/159/index.m3u8
-2024,#genre#
+2024_20,#genre#
 电影新闻, https://clsp.clsp-005.com/20240220/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240220/2/index.m3u8
@@ -16536,7 +16534,7 @@
 电影新闻, https://clsp.clsp-005.com/20240221/158/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240221/159/index.m3u8
-2024,#genre#
+2024_22,#genre#
 电影新闻, https://clsp.clsp-005.com/20240222/1/index.m3u8
 2024,#genre#
 电影新闻, https://clsp.clsp-005.com/20240222/2/index.m3u8
